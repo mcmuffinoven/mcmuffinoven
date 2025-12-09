@@ -18,6 +18,6 @@ I'm passionate about building scalable and impactful applications, exploring clo
 ## 📫 Get in Touch
 
 - Email: ma.anthony1125@gmail.com
-- LinkedIn: [linkedin.com/in/anthony-ma](https://linkedin.com/in/anthony-ma)  
+- LinkedIn: [linkedin.com/in/anthony-ma]([https://linkedin.com/in/anthony-ma](https://www.linkedin.com/in/anthonymaubc/))  
 
 ---

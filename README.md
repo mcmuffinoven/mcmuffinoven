@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋, I'm Anthony Ma
 
-<!--
-**mcmuffinoven/mcmuffinoven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 **Full-Stack Developer | Cloud & DevOps Enthusiast | Problem Solver**
 
-Here are some ideas to get you started:
+I'm passionate about building scalable and impactful applications, exploring cloud infrastructure with AWS, and leveraging Docker and Kubernetes to deploy modern tech stacks that solve real-world problems. Excited to learn and innovate in both development and DevOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 💻 Experienced in **Python, Go, TypeScript, Java, Kotlin**, and frameworks like **Next.js** & **Flask**  
+- ☁️ Hands-on with **AWS**, **Docker**, **Kubernetes**, and **PostgreSQL/PostGIS**  
+- 🌐 Interested in **cloud architecture**, **API design**, and **data-driven applications**  
+- 🎓 Electrical Engineering graduate turned software developer
+- **[3D Printing Club](#)**: Teaching 3D design fundamentals and AI-assisted CAD tools for charitable projects  
+
+
+## 📫 Get in Touch
+
+- Email: ma.anthony1125@gmail.com
+- LinkedIn: [linkedin.com/in/anthony-ma](https://linkedin.com/in/anthony-ma)  
+
+---
+
+## ⚡ GitHub Stats
+
+![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcmuffinoven&show_icons=true&theme=radical)
+
+---
+

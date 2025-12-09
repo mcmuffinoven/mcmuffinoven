@@ -21,10 +21,3 @@ I'm passionate about building scalable and impactful applications, exploring clo
 - LinkedIn: [linkedin.com/in/anthony-ma](https://linkedin.com/in/anthony-ma)  
 
 ---
-
-## ⚡ GitHub Stats
-
-![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcmuffinoven&show_icons=true&theme=radical)
-
----
-
